@@ -1,0 +1,37 @@
+  h1 {
+     color: #20B2AA;
+   }
+
+.header{
+    background-color: #E0FFFF;
+    display:flex;
+    justify-content: space-between;
+}
+
+.img{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.img1 p{
+    font-weight: bold;
+}
+
+.socials{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center; 
+    color: #87CEEB
+}
+
+h2{
+    text-decoration: underline;
+}
+
+body{
+    background-color: #AFEEEE;
+}
